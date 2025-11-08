@@ -114,24 +114,6 @@ xgboost   # optional if used
 └─ README.html
 </code></pre>
 
-  <h2>📌 Notes & Tips</h2>
-      <ul>
-        <li>Make sure <code>TRAIN_END</code> and test window dates are set correctly in the notebook (we use <code>2025-08-01</code> and test up to <code>2025-10-31</code>).</li>
-        <li>If a test set is empty, the notebook safely trains on available data and skips test evaluation to avoid crashes.</li>
-        <li>Ensure column names in CSVs match expectations: common names are <code>Date, Symbol, Company Name, Close, Adj Close</code>. The code tries to be resilient but double-check if you modified files.</li>
-      </ul>
-
-   <h2>🌟 Business Value</h2>
-      <p>Automates detection of dividend events likely to be followed by positive returns — useful for research desks, algo idea generation, and intern projects.</p>
-
-  <h2>🤝 Contact</h2>
-      <p class="small">If you need assistance or want the PDF / PPT version, ping me — happy to help.</p>
-
-  <footer>
-        <div class="small muted">Generated: README HTML for the Dividend Announcement ML project — share this file in the repo root or docs folder.</div>
-      </footer>
-    </div>
-  </div>
 </body>
 </html>
 
