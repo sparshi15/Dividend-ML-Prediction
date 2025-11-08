@@ -105,9 +105,6 @@ seaborn>=0.12.0
 ├─ notebooks/
 │  ├─ Random_Forest_Dividend.ipynb
 │  └─ Logistic_Regression_Dividend.ipynb
-├─ src/
-│  ├─ random_forest.py
-│  └─ logistic_regression.py
 ├─ data/
 │  ├─ dividend_data_per_company_7.zip
 │  ├─ combined_stock_data.csv
