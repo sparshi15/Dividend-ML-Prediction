@@ -5,31 +5,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Dividend Announcement – Stock Return Prediction (RF & LR)</title>
-  <style>
-    :root{
-      --bg:#f6f8fa; --card:#ffffff; --muted:#6b7280; --accent:#0b6cf1;
-      --mono: "SFMono-Regular", Menlo, Monaco, "Roboto Mono", "Courier New", monospace;
-    }
-    body{font-family:Inter, Arial, sans-serif; background:var(--bg); margin:0; padding:24px; color:#0f172a;}
-    .container{max-width:980px; margin:0 auto;}
-    .card{background:var(--card); border-radius:12px; padding:22px; box-shadow:0 6px 18px rgba(12, 15, 20, .06);}
-    h1{margin:0 0 8px; font-size:28px;}
-    h2{margin-top:22px; font-size:18px;}
-    p{line-height:1.5; color:#111827;}
-    .muted{color:var(--muted);}
-    pre{background:#0f172a; color:#e6eef6; padding:12px; border-radius:8px; overflow:auto; font-family:var(--mono); font-size:13px;}
-    table{width:100%; border-collapse:collapse; margin-top:10px;}
-    th, td{padding:8px 10px; text-align:left; border-bottom:1px solid #eef2f7;}
-    code{background:#eef2ff; padding:2px 6px; border-radius:4px; font-family:var(--mono);}
-    .small{font-size:13px; color:var(--muted);}
-    .ok{color:#0b6f3a; font-weight:600;}
-    .note{background:#fff8e6; padding:10px; border-radius:8px; margin:12px 0; color:#6a4b00;}
-    .btn{display:inline-block; background:var(--accent); color:white; padding:8px 12px; border-radius:8px; text-decoration:none;}
-    .cols{display:flex; gap:18px; flex-wrap:wrap;}
-    .col{flex:1; min-width:240px;}
-    footer{margin-top:18px; font-size:13px; color:var(--muted);}
-  </style>
-</head>
+  
 <body>
   <div class="container">
     <div class="card">
