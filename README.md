@@ -92,8 +92,12 @@
    <h2>📦 Requirements</h2>
       <pre><code>pandas
 numpy
-scikit-learn
-xgboost   # optional if used
+pandas>=2.0.0
+numpy>=1.23.0
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
 </code></pre>
 
    <h2>📁 Suggested Repository Structure</h2>
